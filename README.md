@@ -37,6 +37,8 @@ stylesheets.
 This section offers an overview of the available animations. Click on each animation to access its corresponding source
 code, as well as a link to the live demonstration on [CodeSandbox](https://codesandbox.io).
 
+- [stepper-with-form](https://github.com/udohjeremiah/framer-motion-animations/blob/main/src/components/stepper-with-form.jsx)
+
 ## Contributing
 
 If you'd like to contribute to this project, please follow the contribution guidelines below:
