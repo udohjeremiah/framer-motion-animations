@@ -1,4 +1,3 @@
-import StepperWithForm from "@/components/stepper-with-form";
 import clsx from "clsx";
 
 export default function Home() {
