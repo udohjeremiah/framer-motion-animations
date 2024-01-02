@@ -38,6 +38,7 @@ This section offers an overview of the available animations. Click on each anima
 code, as well as a link to the live demonstration on [CodeSandbox](https://codesandbox.io).
 
 - [stepper-with-form](https://github.com/udohjeremiah/framer-motion-animations/blob/main/src/components/stepper-with-form.jsx)
+- [radial-gradient-cursor](https://github.com/udohjeremiah/framer-motion-animations/blob/main/src/components/radial-gradient-cursor.jsx)
 
 ## Contributing
 
