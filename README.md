@@ -39,6 +39,7 @@ code, as well as a link to the live demonstration on [CodeSandbox](https://codes
 
 - [stepper-with-form](https://github.com/udohjeremiah/framer-motion-animations/blob/main/src/components/stepper-with-form.jsx)
 - [radial-gradient-cursor](https://github.com/udohjeremiah/framer-motion-animations/blob/main/src/components/radial-gradient-cursor.jsx)
+- [slideshow](https://github.com/udohjeremiah/framer-motion-animations/blob/main/src/components/slideshow.jsx)
 
 ## Contributing
 
